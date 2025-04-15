@@ -7,6 +7,7 @@ Step-by-Step Guide to Build .exe
    
 3. Build the executable
    pyinstaller --noconfirm --clean --onefile --windowed gui_launcher.py
+   rename gui_launcher.py to your python file
    
 4. Output:
     PyInstaller creates:
